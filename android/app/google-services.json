@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "609844357173",
+    "firebase_url": "https://smartpanelapp.firebaseio.com",
+    "project_id": "smartpanelapp",
+    "storage_bucket": "smartpanelapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609844357173:android:8952a37801f86034",
+        "android_client_info": {
+          "package_name": "com.smartpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609844357173-i9uf5mm3p7lg0m2jfhbj5jmlo4so0716.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf307KI0a9qzRMZ6GReSU67_MdiUS1kAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609844357173-i9uf5mm3p7lg0m2jfhbj5jmlo4so0716.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
