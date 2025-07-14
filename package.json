@@ -18,7 +18,7 @@
         "react-native-gesture-handler": "^1.2.1",
         "react-native-material-menu": "^0.4.2",
         "react-navigation": "^3.11.0",
-        "react-redux": "^7.0.3",
+        "react-redux": "^7.2.9",
         "redux": "^4.0.1"
     },
     "devDependencies": {
